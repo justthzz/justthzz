@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">I am all about AI | Machine Learning | Deep Learning</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px; color: #4CAF50; text-transform: uppercase; letter-spacing: 2px;">Unleashing Intelligence with AI | ML | Deep Learning</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=justthzz&label=Profile+Views&color=blue&style=flat"/>
@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center">My AI/ML Expertise</h3>
+<h3 align="center" style="font-size: 28px; color: #FF5733; font-weight: bold;">My AI/ML Expertise</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="center">My Tech Stack</h3>
+<h3 align="center" style="font-size: 28px; color: #2196F3; font-weight: bold;">My Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,7 +39,7 @@
 
 ---
 
-<h3 align="center">Full Stack Tools</h3>
+<h3 align="center" style="font-size: 28px; color: #9C27B0; font-weight: bold;">Full Stack Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,14 +52,14 @@
 
 ---
 
-<h3 align="center">Let's Connect</h3>
+<h3 align="center" style="font-size: 28px; color: #FF9800; font-weight: bold;">Let's Connect</h3>
 
 <p align="center">
   <a href="https://github.com/justthzz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/justthzz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/justthzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/just.thzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-<h4 align="center">Eat 🍴, Sleep💤, Game 🎮, Code 🧑‍💻, Repeat🔁</h4>
+<h4 align="center" style="font-size: 24px; color: #9E9E9E; font-style: italic;">Eat 🍴 | Sleep💤 | Game 🎮 | Code 🧑‍💻 | Repeat 🔁</h4>
