@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=800&color=7CFC00&center=true&vCenter=true&width=500&lines=Holaaaa+I'm+Thanuja;Trainee+AI%2FML+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=800&color=7CFC00&center=true&vCenter=true&width=500&lines=Holaaaa+I'm+Thanuja"/> 
 </div>
 
+<!-- ;Trainee+AI%2FML+Engineer> -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=justthzz&label=Profile+Views&color=blue&style=flat"/>
-</p>
+   <img src="https://komarev.com/ghpvc/?username=justthzz&label=Profile+Views&color=blue&style=flat"/>
+</p> 
 
 <h3 align="center" style="font-size: 24px; color: #FF7043; font-weight: bold;">My AI/ML Expertise</h3>
 
