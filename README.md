@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Thanuja+👋;AI%2FML+Engineer+%26+Developer;Building+the+Future+with+AI" alt="Typing SVG"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Thanuja+👋;AI%2FML+Engineer+%26+Developer;Script+Kiddie+Turning+AI+into+Reality" alt="Typing SVG"/> 
 </div>
 
 <div align="center">
@@ -9,8 +9,6 @@
 
 <br/>
 
-## 🤖 AI/ML Expertise
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
   <br/><br/>
@@ -19,8 +17,6 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-10B981?style=for-the-badge&logo=spacy&logoColor=white"/>
 </div>
-
-## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -51,18 +47,10 @@
 
 </div>
 
-## 📊 GitHub Analytics
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justthzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justthzz&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justthzz&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 🌐 Let's Connect
 
 <div align="center">
   <a href="https://github.com/justthzz">
@@ -81,13 +69,13 @@
 
 <div align="center">
   <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  <br/><br/>
-  <h3>💭 <em>Eat 🍴 Sleep 💤 Code 👨‍💻 Repeat 🔁</em></h3>
+  <h3>💭 <em>"Script Kiddie Turning AI into Reality"</em></h3>
+  <br/>
+  <h4>🚀 Eat 🍴 | Sleep 💤 | Code 👨‍💻 | Repeat 🔁</h4>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
