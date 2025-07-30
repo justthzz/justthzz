@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Thanuja+👋;AI%2FML+Engineer+%26+Developer;Script+Kiddie+Turning+AI+into+Reality" alt="Typing SVG"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Holaaa!+I'm+Thanuja+👋;AI%2FML+Engineer" alt="Typing SVG"/> 
 </div>
 
 <div align="center">
@@ -68,9 +68,7 @@
 </div>
 
 <div align="center">
-  <br/>
-  <h3>💭 <em>"Script Kiddie Turning AI into Reality"</em></h3>
-  <br/>
+  <h5><em>"Script Kiddie Turning AI into Reality"</em></h5>
   <h4>🚀 Eat 🍴 | Sleep 💤 | Code 👨‍💻 | Repeat 🔁</h4>
 </div>
 
