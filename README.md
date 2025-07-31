@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=justthzz&label=Profile+Views&color=00d9ff&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/justthzz?label=Followers&style=flat-square&color=00d9ff&labelColor=282828" alt="followers"/>
 </div>
 
 <br/>
